@@ -10,6 +10,10 @@ Todo componente é uma função que retorna um bloco de HTML
 
 Componente que usa estado, ou seja, vai ter memória.
 
+## Criando projeto ReactJs
+
+npx create-react-app ReactJs-Hooks
+
 ## Links Úteis:
 
 https://www.garagemdigital.io/react-hooks-o-que-sao/
