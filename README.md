@@ -6,9 +6,15 @@ Sempre que o seu componente sofrer algum tipo de alteração, hooks vai executar
 
 Todo componente é uma função que retorna um bloco de HTML
 
-## Hook State
+## Hook State(useState)
 
 Componente que usa estado, ou seja, vai ter memória.
+
+## Hook Effects(useEffect) 
+
+Uso de efeitos, toda vez que atualizar o valor ocorre um efeito colateral.
+
+Os efeitos colaterais só vão agir quando aquele estado que você está vigiando sofre alguma alteração.
 
 ## Criando projeto ReactJs
 
@@ -17,3 +23,5 @@ npx create-react-app ReactJs-Hooks
 ## Links Úteis:
 
 https://www.garagemdigital.io/react-hooks-o-que-sao/
+
+https://pt-br.reactjs.org/
