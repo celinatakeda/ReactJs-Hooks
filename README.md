@@ -17,9 +17,9 @@ Uso de efeitos, toda vez que atualizar o valor ocorre um efeito colateral.
 Os efeitos colaterais só vão agir quando aquele estado que você está vigiando sofre alguma alteração.
 
 ## Criando projeto ReactJs
-
+```
 npx create-react-app ReactJs-Hooks
-
+```
 ## Links Úteis:
 
 https://www.garagemdigital.io/react-hooks-o-que-sao/
